@@ -1,6 +1,6 @@
 #a simple django login attempts tracker
 its a simple way  to keep track of failed login attempts , by banning the ip
-you can set expireation time and login attempt by setting the values  setting the values
+you can set expireation time and login attempt by setting the values
 
 
 ExpireTime = 60 
