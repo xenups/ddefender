@@ -9,5 +9,6 @@ LoginAttemps = 3
 in settings.py
 
 Expiration unit is minute
+!!!!! its not for production use
  
 
